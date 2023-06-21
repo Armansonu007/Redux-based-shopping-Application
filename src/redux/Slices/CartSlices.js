@@ -10,4 +10,3 @@ export const Cartslice = createSlice({
 });
 export const { add, remove } = Cartslice.action;
 export default Cartslice.reducers;
-dFdvvsd
